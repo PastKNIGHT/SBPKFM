@@ -9,7 +9,9 @@
 ## For the server: Rename the folder with the map to world or as you have it written in server.properties or take schematic for the plugin or the WorldEdit mod.
 ## Single player: Unpack into a folder .minecraft/saves
 
-# Previously they took part in the development (but for one reason or another their work was cut out): Sprey﻿ and _A_V_A_L_O_N_
-# Authors: PastKNIGHT and Robney
-
+### Authors: ###
+* [Robney](https://github.com/r0bney)
+* [Sprey](https://github.com/Sprey412)
+* [_A_V_A_L_O_N_](https://github.com/)
+* [PastKNIGHT](https://github.com/PastKNIGHT)
 
