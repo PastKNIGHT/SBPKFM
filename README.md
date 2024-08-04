@@ -10,8 +10,7 @@
 ## Single player: Unpack into a folder .minecraft/saves
 
 ### Authors: ###
-* [Robney](https://github.com/r0bney)
-* [Sprey](https://github.com/Sprey412)
-* [_A_V_A_L_O_N_](https://github.com/)
+* [Robney](https://vk.com/robney_marbels)
+* [Sprey](https://vk.com/sprey412)
+* [_A_V_A_L_O_N_](https://steamcommunity.com/profiles/76561198046582093)
 * [PastKNIGHT](https://github.com/PastKNIGHT)
-
